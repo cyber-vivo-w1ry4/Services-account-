@@ -2,6 +2,9 @@
 
 [icann-policy-development-report-16jun21-ar.pdf](https://github.com/user-attachments/files/27952091/icann-policy-development-report-16jun21-ar.pdf)
 
+[Mekanisme-Sertifikasi-ISPO-Untuk-Perusahaan.pdf](https://github.com/user-attachments/files/27952114/Mekanisme-Sertifikasi-ISPO-Untuk-Perusahaan.pdf)
+
+[registration-data-policy-gtlds-epdp-1-implementation-15jul22-en.pdf](https://github.com/user-attachments/files/27952145/registration-data-policy-gtlds-epdp-1-implementation-15jul22-en.pdf)
 
   #cyberw1ry4 #rakyat #human
 ​‪@CyberW1RY4‬ ‪@meta‬ ‪@YouTube‬ ‪@ChromeDevs‬ ‪@GoogleDevelopers‬ ‪@MicrosoftWindows‬ ‪@WindowsDevelopers‬ ‪@surface‬ ‪@Microsoft‬ 
