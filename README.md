@@ -1,7 +1,7 @@
 # Services-account-
 
 
-Checkpoint  computer  target uninstall_apps get-uninstall=laza.co.id get-uninstall Shopee. ID get-unintall Tokopedia. ID get uninstall gojek.id
+
   #cyberw1ry4 #rakyat #human
 ​‪@CyberW1RY4‬ ‪@meta‬ ‪@YouTube‬ ‪@ChromeDevs‬ ‪@GoogleDevelopers‬ ‪@MicrosoftWindows‬ ‪@WindowsDevelopers‬ ‪@surface‬ ‪@Microsoft‬ 
 
