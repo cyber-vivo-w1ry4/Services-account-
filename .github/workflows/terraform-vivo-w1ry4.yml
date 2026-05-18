@@ -46,7 +46,7 @@ name: 'Terraform'
 
 on:
   push:
-    branches: [ "https://www.android.com" ]
+    branches: [ "https://www.redhat.com" ] [ "https://www.android.com" ] [ "https://www.nasa.com" ] [ "https://www.meta.com" ] [ "https://www.facebook.com" ] [ "https://www.whatsapps.com" ]
   pull_request:
 
 permissions:
